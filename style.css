@@ -1,0 +1,40 @@
+h1, h2 {
+  font-family: 'Fruktur', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Fruktur', sans-serif;
+}
+body {
+  color: darkmagenta;
+  font-family: 'Shrikhand', sans-serif;
+  background-image: url("https://png.pngtree.com/background/20230528/original/pngtree-an-image-showing-a-huge-wave-hitting-the-waves-in-the-picture-image_2773706.jpg")
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-left: 75px;
+  margin-right: 75px;
+  text-align: center;
+}
+
+list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+list li {
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
